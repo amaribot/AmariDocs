@@ -1,0 +1,2 @@
+# AmariDocs
+Documentation for AmariBot
