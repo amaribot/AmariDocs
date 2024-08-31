@@ -1,2 +1,2 @@
 # AmariDocs
-Documentation for AmariBot
+Documentation for AmariBot. 

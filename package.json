@@ -12,6 +12,8 @@
   "author": "KSJaay@gmail.com",
   "license": "ISC",
   "devDependencies": {
+    "eslint-plugin-markdownlint": "^0.6.0",
+    "lint-staged": "^15.2.9",
     "vitepress": "^1.3.2"
   }
 }
