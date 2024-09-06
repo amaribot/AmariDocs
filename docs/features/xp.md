@@ -50,8 +50,8 @@ This is a premium feature for donators only. Donator is currently a one time pay
 
 ## Weekly
 
-| Name                           | Example                | Usage                                                                                                                                                        |
-| ------------------------------ | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| `weekly &#60;on/off&#62;`      | `:?weekly on`          | Turns the weekly leaderboard on or off                                                                                                                       |
-| `weekly &#60;winners&#62;`     | `:?weekly winners`     | Announces the Top 3 winners of the week and resets the leaderboard. If unannounced, users exp will continue to accumulate and the leaderboard will not reset |
-| `weekly &#60;leaderboard&#62;` | `:?weekly leaderboard` | If enabled, shows the weekly leaderboard for this server                                                                                                     |
+| Name                         | Example                | Usage                                                                                                                                                        |
+| ---------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| weekly &#60;on/off&#62;      | `:?weekly on`          | Turns the weekly leaderboard on or off                                                                                                                       |
+| weekly &#60;winners&#62;     | `:?weekly winners`     | Announces the Top 3 winners of the week and resets the leaderboard. If unannounced, users exp will continue to accumulate and the leaderboard will not reset |
+| weekly &#60;leaderboard&#62; | `:?weekly leaderboard` | If enabled, shows the weekly leaderboard for this server                                                                                                     |

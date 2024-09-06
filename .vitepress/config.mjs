@@ -37,6 +37,7 @@ export default defineConfig({
               { text: 'Guild', link: '/api/v1/guild' },
               { text: 'Member', link: '/api/v1/member' },
             ],
+            collapsed: false,
           },
           // {
           //   text: '/api/v2',

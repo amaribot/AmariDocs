@@ -20,6 +20,6 @@ Do not use <>[]|\* etc when using the commands
 
 **Optional:** `*` means you do not necessarily need to enter an argument
 
-**Required:** `<&#60;>one>` means you must use the given argument for this command
+**Required:** `<one>` means you must use the given argument for this command
 
-**Many:** `<&#60;>one/two/three...>`Means you must select one out of the multiple arguments
+**Many:** `<one/two/three...>`Means you must select one out of the multiple arguments

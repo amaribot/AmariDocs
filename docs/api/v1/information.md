@@ -1,3 +1,5 @@
+# AmariBot API Information
+
 ## Base URL
 
 ```
