@@ -38,14 +38,14 @@ export default defineConfig({
               { text: 'Member', link: '/api/v1/member' },
             ],
           },
-          {
-            text: '/api/v2',
-            items: [
-              { text: 'Guild', link: '/api/v2/guild' },
-              { text: 'Member', link: '/api/v2/members' },
-              { text: 'User', link: '/api/v2/user' },
-            ],
-          },
+          // {
+          //   text: '/api/v2',
+          //   items: [
+          //     { text: 'Guild', link: '/api/v2/guild' },
+          //     { text: 'Member', link: '/api/v2/members' },
+          //     { text: 'User', link: '/api/v2/user' },
+          //   ],
+          // },
         ],
       },
       {
