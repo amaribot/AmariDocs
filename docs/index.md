@@ -1,4 +1,6 @@
-# 🤖 AmariBot - Documentation
+# 🤖 Documentation
+
+<div style="margin-top: 5px; color: #f67852;">NO BLOAT, JUST LEVELS!</div>
 
 This is the documentation page for AmariBot. If you are unable to find the information you're looking for, please join our [support server](https://discord.gg/kqefESMzQj).
 
@@ -18,6 +20,6 @@ Do not use <>[]|\* etc when using the commands
 
 **Optional:** `*` means you do not necessarily need to enter an argument
 
-**Required:** `<&#60;>one>` means you must use the given argument for this command
+**Required:** `<one>` means you must use the given argument for this command
 
-**Many:** `<&#60;>one/two/three...>`Means you must select one out of the multiple arguments
+**Many:** `<one/two/three...>`Means you must select one out of the multiple arguments
