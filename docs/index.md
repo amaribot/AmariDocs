@@ -1,4 +1,6 @@
-# 🤖 AmariBot - Documentation
+# 🤖 Documentation
+
+<div style="margin-top: 5px; color: #f67852;">NO BLOAT, JUST LEVELS!</div>
 
 This is the documentation page for AmariBot. If you are unable to find the information you're looking for, please join our [support server](https://discord.gg/kqefESMzQj).
 

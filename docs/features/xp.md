@@ -14,18 +14,18 @@ To use the following commands you need `Administrator` or `AmariMod` role. Some 
 | blacklist &#60;add/remove&#62; &#60;#channel/ID&#62; | `:?blacklist add #general`  | Adds a channel to the blacklist. Blacklisted channels will not get exp |
 | blacklist &#60;show&#62;                             | `:?blacklist show`          | Shows all blacklisted roles and channels                               |
 
-## Pmulti
+## Multiplier
 
 ::: warning
 This is a premium feature for donators only. Donator is currently a one time payment and allows us to keep hosting the bot.
 :::
 
-| Name                                                | Example                   | Usage                                                                            |
-| --------------------------------------------------- | ------------------------- | -------------------------------------------------------------------------------- |
-| pmulti &#60;set&#62; &#60;1-100&#62;                | `:?pmulti set 5`          | Sets this server's global multiplier                                             |
-| pmulti add &#60;#channel/@role&#62; &#60;1-100&#62; | `:?pmulti add #general 5` | Sets different exp rates for each channel for role. Exp for all roles stack      |
-| pmulti remove &#60;#channel/@role&#62;              | `:?pmulti add #general`   | Clears a channel or role custom multiplier (resets to current global multiplier) |
-| pmulti &#60;show&#62;                               | `:?pmulti show`           | Shows all multipliers for channels and roles                                     |
+| Name                                                    | Example                       | Usage                                                                            |
+| ------------------------------------------------------- | ----------------------------- | -------------------------------------------------------------------------------- |
+| multiplier &#60;set&#62; &#60;1-100&#62;                | `:?multiplier set 5`          | Sets this server's global multiplier                                             |
+| multiplier add &#60;#channel/@role&#62; &#60;1-100&#62; | `:?multiplier add #general 5` | Sets different exp rates for each channel for role. Exp for all roles stack      |
+| multiplier remove &#60;#channel/@role&#62;              | `:?multiplier add #general`   | Clears a channel or role custom multiplier (resets to current global multiplier) |
+| multiplier &#60;show&#62;                               | `:?multiplier show`           | Shows all multipliers for channels and roles                                     |
 
 ##Reset
 
